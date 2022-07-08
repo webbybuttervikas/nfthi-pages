@@ -1,0 +1,50 @@
+.featuredevent {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 48px;
+  color: #000000;
+  margin-top: 50px;
+  padding-left: 6px;
+}
+
+.fecard {
+  margin-left: 6px;
+  margin-top: 16px;
+  width: 18.75rem;
+  align-items: center;
+}
+
+.featuredeventtitle {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+  color: #000000;
+}
+
+.facal {
+  color: #20c0e8;
+}
+.faloc {
+  color: #20c0e8;
+  margin-left: 1px;
+}
+
+.location {
+  margin-top: -10px;
+}
+
+.textcalender {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+}
+
+.card-body-1 {
+  padding-bottom: 20px;
+}

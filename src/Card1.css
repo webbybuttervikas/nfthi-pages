@@ -1,0 +1,76 @@
+
+.card-style {
+    width: 25rem;
+    background: #ffffff;
+    border: 1px solid #eaeaea;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    margin-top: 51px;
+  }
+  
+  .cardheading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 19px;
+    line-height: 19px;
+  }
+  
+  .cardheading1 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.01em;
+    color: #000000;
+    font-weight: 400;
+    margin-top: -8px;
+  }
+  
+  .cardheading2 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+    line-height: 21px;
+    color: #8a8a8a;
+    font-size: 13px;
+    margin-top: -5px;
+  }
+  
+  .readmore {
+    color: #20c0e8;
+  }
+  
+  .eventdate {
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 15px;
+    line-height: 19px;
+    color: #3d3d3d;
+  }
+  
+  .icontwitter {
+    color: #20c0e8;
+  }
+  
+  .buttonicontwitter {
+    border: 1px solid #20c0e8;
+    background-color: white;
+    border-radius: 5px;
+    padding: 1px 5px;
+    margin-left: 105px;
+  
+  }
+  
+  .iconlink {
+    color: #20c0e8;
+  }
+
+  .buttoniconlink{
+    border: 1px solid #20c0e8;
+    background-color: white;
+    border-radius: 5px;
+    padding: 1px 2px;
+    margin-left: 15px;
+  }

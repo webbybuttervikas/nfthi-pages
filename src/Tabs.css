@@ -1,0 +1,100 @@
+body{
+    font-family: 'Roboto';
+}
+
+.react-tabs__tab {
+  border: 0;
+}
+
+.rectangle {
+    height: 26px;
+    width: 114px;
+    background-color: #20c0e8;
+    position: absolute;
+    color: white;
+    right: 0px;
+    top:12px
+}
+
+.today li button {
+  background-color: white;
+  color: #20c0e8;
+  border: #ca2525;
+  padding: 6px 17px 5px 18px;
+  font-family: "Chivo", sans-serif;
+}
+
+.today li[aria-selected = true] button{
+  background-color: #20c0e8;  
+  color: white;
+}
+
+.today li[aria-selected = false] button:hover{
+    background-color: #20c0e8;
+    color: white;
+  }
+
+
+.card-style {
+  width: 25rem;
+  background: #ffffff;
+  border: 1px solid #eaeaea;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  margin-top: 51px;
+}
+
+.cardheading {
+  font-size: 19px;
+  line-height: 19px;
+}
+
+.cardheading1 {
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.01em;
+  color: #000000;
+  font-weight: 400;
+  margin-top: -8px;
+}
+
+.cardheading2 {
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  line-height: 21px;
+  color: #8a8a8a;
+  font-size: 13px;
+  margin-top: -5px;
+}
+
+.readmore {
+  color: #20c0e8;
+}
+
+.eventdate {
+  font-size: 15px;
+  line-height: 19px;
+  color: #3d3d3d;
+}
+
+.icon {
+  color: #20c0e8;
+}
+
+.buttonicontwitter {
+  border: 1px solid #20c0e8;
+  background-color: white;
+  border-radius: 5px;
+  padding: 1px 5px;
+  
+}
+
+
+
+.buttoniconlink {
+  border: 1px solid #20c0e8;
+  background-color: white;
+  border-radius: 5px;
+  padding: 1px 2px;
+  margin-left: 15px;
+}
